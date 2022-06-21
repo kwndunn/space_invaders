@@ -1,0 +1,10 @@
+# Import cache
+.import/
+
+# Binaries
+bin/
+build/
+lib/
+
+.DS_Store
+*.swp
